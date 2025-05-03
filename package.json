@@ -1,0 +1,25 @@
+{
+  "name": "posmotri-v-okno-fd",
+  "version": "1.0.0",
+  "description": "https://github.com/AnnaZoogah/posmotri-v-okno-fd.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Привет!\" && exit 1",
+    "check": "prettier --check './**/*.{html,css,js}'",
+    "format": "prettier --write './**/*.{html,css,js}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaZoogah/posmotri-v-okno-fd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaZoogah/posmotri-v-okno-fd/issues"
+  },
+  "homepage": "https://github.com/AnnaZoogah/posmotri-v-okno-fd#readme",
+  "dependencies": {
+    "prettier": "^3.5.3",
+    "stylelint": "^16.19.1"
+  }
+}
